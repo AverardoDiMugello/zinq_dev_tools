@@ -1,0 +1,10 @@
+[package]
+name = "zinq_rearch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitvec = "1.0.1"
+byteorder = "1.5.0"
+capstone = "0.12.0"
+inkwell = { workspace = true }

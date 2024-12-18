@@ -1,0 +1,7 @@
+[package]
+name = "llvm_prepper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+inkwell = { workspace = true }
